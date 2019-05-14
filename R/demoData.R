@@ -4,5 +4,5 @@
 #' @export
 
 demoData <- function(){
-  cat("Welcom to demoData.\n")
+  cat("Welcome to demoData.\n")
 }
