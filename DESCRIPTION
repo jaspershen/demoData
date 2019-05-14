@@ -1,0 +1,21 @@
+Package: demoData
+Type: Package
+Title: All demo datasets for Xiaotao Shen's other packages.
+Version: 0.0.1
+Date: 2019-05-14
+Author: Xiaotao Shen
+Maintainer: Xiaotao Shen<shenxt1990@163.com>
+Description: All demo datasets for Xiaotao Shen's other packages.
+LazyData: true
+Depends: R (>= 3.0)
+Imports: ggplot2
+License: GPL-2 | file LICENSE
+RoxygenNote: 6.1.1
+Suggests: knitr,
+    rmarkdown,
+    BiocStyle,
+    RUnit,
+    BiocGenerics
+VignetteBuilder: knitr
+Note: No
+biocViews: Metabolomics, Bioinformation
