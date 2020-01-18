@@ -10,7 +10,7 @@ LazyData: true
 Depends: R (>= 3.0)
 Imports: ggplot2
 License: GPL-2 | file LICENSE
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 Suggests: knitr,
     rmarkdown,
     BiocStyle,
@@ -18,4 +18,4 @@ Suggests: knitr,
     BiocGenerics
 VignetteBuilder: knitr
 Note: No
-biocViews: Metabolomics, Bioinformation
+biocViews: Bioinformation
